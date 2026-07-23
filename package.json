@@ -1,0 +1,12 @@
+{
+  "name": "dev.gaurav-nandgowli",
+  "version": "0.0.1",
+  "description": "This is my personal portfolio website",
+  "license": "ISC",
+  "author": "Gaurav Nandgowli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
