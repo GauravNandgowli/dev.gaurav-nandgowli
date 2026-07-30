@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  @font-face {
+    font-family: "VT323";
+    font-style: normal;
+    font-weight: 400;
+    src:
+      local("VT323"),
+      url("/fonts/VT323.ttf") format("woff2");
+    font-display: swap;
+  }
+
+  body {
+    font-family: "VT323";
+    background-color: #0b0b10;
+    color: #c9f2a9;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
